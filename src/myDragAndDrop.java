@@ -48,6 +48,7 @@ public class myDragAndDrop {
         JButton Destination4 = new JButton();
         Destination4.setTransferHandler(new TransferHandler("text"));
         Destination4.setBounds(10, 160, 150, 25);
+
         panel.add(Destination4);
 
 
